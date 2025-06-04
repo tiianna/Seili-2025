@@ -6,49 +6,50 @@ BalticSeaBioMed builds on the highly successful work of our founding network, No
 
 For the official program, see https://ki.instructure.com/courses/28543
 
-### Learning aims:
+## Learning aims:
 
-Students will apply their previous knowledge to identify relevant and realistic topics/problems in the field of Biomedicine.  
-Students will work in groups and each group is guided by a junior mentor.  
-Based on the course material and guidance during the summer school, each group will develop and present a virtual preclinical research project to solve the selected problems.  
-The final report/assignment will be prepared individually after the summer school.  
+- Understand key concepts in human health, planetary health, and modern biomedicine, including fundamental ethical, societal, and environmental considerations.
+- Analyse the complex relationships and interactions between human health, planetary health, and biomedicine from multidisciplinary and multicultural perspectives.
+- Apply practical skills in environmental sampling, computational biomedicine, and multi-omics data analysis, while collaborating effectively within diverse teams.
+- Evaluate biomedical problems and methodologies, communicate solutions clearly, and reflect on their broader ethical, economic, and societal implications.
 
-### Tasks for before the Summer School
+## Tasks for before the Summer School
 
 Please get familiar with the following material and platforms:
 
-**The Ethics of Biomedicine**<br/>
-This online course will prepare you for the Ethics session in the summer school:
-https://ki.eu-west.catalog.canvaslms.com/browse/oer/courses/the-ethichs-of-biomedicine-2023
+### 1. The Ethics of Biomedicine
 
-**Group work**<br/>
+The link to the bioethics module is [here](https://ki.eu-west.catalog.canvaslms.com/browse/oer/courses/the-ethics-of-biomedicine-2025)
+
+### 2. Group work
+
 Here you will learn about getting most from the group work: https://rise.articulate.com/share/YOSU8I4BZjkJZK4_KUlIjcvBVzBMvs1x<br>
 Please, download and fill in [the Group Contract](https://docs.google.com/document/d/1FGXvsIj3rQHaUlSEHfysecQqVYXKVVat/edit?usp=drive_link&ouid=108198762102362181813&rtpof=true&sd=true) with your group members.  
 
-**R Introduction?
-TODO
+### 3. R coding
 
-**Protein interaction**<br>
+If you are not familiar with R or need to fresh up to run basic R code, please complete the following online course on datacamp:  
+[https://app.datacamp.com/learn/courses/free-introduction-to-r](https://learn.datacamp.com/courses/free-introduction-to-r)
+
+We expect you to have a running R framework on your computer, preferably accessible through [RStudio](https://posit.co/download/rstudio-desktop/) and/or [JupyterLab](https://jupyter.org).
+
+### 4. Protein interaction
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
 
-**Introduction to biomacromolecular structure**<br>
+If you are not already familiar with the STRING database, we highly recommend that you go through the short [STRING exercises](https://jensenlab.org/training/string/) to learn about the underlying data before working with it in these exercises.
+
+### 5. Introduction to biomacromolecular structure
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
 
 **Introduction to AlphaFold3 for predicting 3D structures for proteinse**<br>
 Please take the introductory part of this online course: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/. The course is comprehensive but only the introduction is compulsory and, thereafter, please [Test your knowledge](https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/test-your-knowledge/). 
 
-**Install Cytoscape and PyMOL** 
+### 6. Install Cytoscape and PyMOL
 
 _Cytoscape_:
 Please make sure that you have the latest version of Cytoscape installed. Then start Cytoscape and update the current apps if necessary by checking the App Updates icon in the right-most corner of the manubar.
 
 The exercises require you to have certain Cytoscape apps installed. Go to the [Cytoscape App Store](https://apps.cytoscape.org/) in your web browser and search for stringApp, select the app and press the Install button to install it. Similarly, make sure you have the yFiles Layout Algorithms and clusterMaker2 apps installed before switching back to Cytoscape.
-
-If you are not already familiar with the STRING database, we highly recommend that you go through the short [STRING exercises](https://jensenlab.org/training/string/) to learn about the underlying data before working with it in these exercises.
-
-Please also get familiar with the R programming language by attending the [Introduction in R](https://learn.datacamp.com/courses/free-introduction-to-r) on DataCamp.
-
-We expect you to have a working Jupyter environment with Python and R kernels.
 
 _PyMOL_: 
 PyMOL is a molecular visualization program for studying and preparing figures of macromolecular 3D structures. <br>
