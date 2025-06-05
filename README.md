@@ -28,10 +28,7 @@ Please, download and fill in [the Group Contract](https://docs.google.com/docume
 
 ### 3. R coding
 
-If you are not familiar with R or need to fresh up to run basic R code, please complete the following online course on datacamp:  
-[https://app.datacamp.com/learn/courses/free-introduction-to-r](https://learn.datacamp.com/courses/free-introduction-to-r)
-
-We expect you to have a running R framework on your computer, preferably accessible through [RStudio](https://posit.co/download/rstudio-desktop/) and/or [JupyterLab](https://jupyter.org).
+If you are not familiar with R or need to fresh up to run basic R code, please go through the Part 1 of the online [R course "Hands-On Programming with R"](https://rstudio-education.github.io/hopr/) by Garrett Grolemund. It is a good idea to install [RStudio](https://posit.co/download/rstudio-desktop/) (or [JupyterLab](https://jupyter.org)) beforehand and run the code on your own computer while going through the book. The rest of the book is also highly recommended and contains structures (data frames, loops, ect.) that you will use during project work!
 
 ### 4. Protein interaction
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
