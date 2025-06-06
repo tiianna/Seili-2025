@@ -18,7 +18,7 @@ For the official program, see https://ki.instructure.com/courses/28543
 Please get familiar with the following material and platforms:
 
 ### 1. The Ethics of Biomedicine
-
+Please go through the oneline material. 
 The link to the bioethics module is [here](https://ki.eu-west.catalog.canvaslms.com/browse/oer/courses/the-ethics-of-biomedicine-2025)
 
 ### 2. Group work
